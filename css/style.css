@@ -1,9 +1,12 @@
 body{
-  background-color: gold;
+  background-color: rgba(100,200, 050,0.9);
+  text-align: center;
 
 }
 h1{
   text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: whitesmoke;
 }
 table {
   border: 1px solid black;
