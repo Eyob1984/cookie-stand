@@ -1,3 +1,9 @@
+header{
+  background-color: rgb(236, 178, 178);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  
+}
 #pat-heading{
   text-align: center;
 }
@@ -7,10 +13,8 @@
 
 
 
-
-body{
-  background-color: lightyellow;
-
+.family{
+  background-image: url(img/.family.png);
 }
 footer{
   
